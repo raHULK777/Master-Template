@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#C2410C;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:a83509;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1920" height="1080" fill="url(#g)"/>
+    <text x="960" y="520" font-family="system-ui,sans-serif" font-size="28" font-weight="600" fill="white" text-anchor="middle" opacity="0.9">Pattern</text>
+    <text x="960" y="560" font-family="system-ui,sans-serif" font-size="16" fill="white" text-anchor="middle" opacity="0.6">ConstructOps Demo</text>
+    <text x="960" y="590" font-family="system-ui,sans-serif" font-size="12" fill="white" text-anchor="middle" opacity="0.4">1920×1080</text>
+  </svg>
